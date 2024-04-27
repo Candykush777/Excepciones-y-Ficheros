@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ejemplos_Notion/Ejemplos_Notion.iml" filepath="$PROJECT_DIR$/Ejemplos_Notion/Ejemplos_Notion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ejercicios_Clase_Tema7N_Tema10Scorm/Ejercicio3_Excepciones/Ejercicio3_Excepciones.iml" filepath="$PROJECT_DIR$/Ejercicios_Clase_Tema7N_Tema10Scorm/Ejercicio3_Excepciones/Ejercicio3_Excepciones.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ejercicios_Clase_Tema7N_Tema10Scorm/Ejercicios_Clase_Tema7N_Tema10Scorm.iml" filepath="$PROJECT_DIR$/Ejercicios_Clase_Tema7N_Tema10Scorm/Ejercicios_Clase_Tema7N_Tema10Scorm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Excepciones y Ficheros.iml" filepath="$PROJECT_DIR$/Excepciones y Ficheros.iml" />
       <module fileurl="file://$PROJECT_DIR$/Excepciones_Clase/Excepciones_Clase.iml" filepath="$PROJECT_DIR$/Excepciones_Clase/Excepciones_Clase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ficheros/Ficheros.iml" filepath="$PROJECT_DIR$/Ficheros/Ficheros.iml" />
     </modules>
   </component>
 </project>
