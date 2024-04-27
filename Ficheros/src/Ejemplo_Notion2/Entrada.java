@@ -16,7 +16,8 @@ public class Entrada {
                 System.out.println("Introduce el apellido:");
                 String apellido = scanner.nextLine();
                 System.out.println("Introduce la edad:");
-                int edad = Integer.parseInt(scanner.nextLine());
+                int edad = scanner.nextInt();
+                scanner.nextLine();
 
                 // Escribir los datos en el archivo usuarios.txt
                 escribirEnArchivo(nombre, apellido, edad);
