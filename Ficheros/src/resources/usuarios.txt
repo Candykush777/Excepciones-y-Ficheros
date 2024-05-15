@@ -1,0 +1,4 @@
+Usuario : nombre='edu', apellido='afan', dni='3456', edad=34, telefono=6543
+
+Usuario : nombre='juan', apellido='rtyu', dni='4567', edad=34, telefono=6789
+
